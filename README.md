@@ -1,4 +1,4 @@
-# Heart_attack_predictor
+# Cardio Alert
 
 ➔ Developed a robust heart attack predictor using machine learning techniques and a dataset comprising various clinical attributes such as blood pressure, cholesterol levels, and heart rate.
 
